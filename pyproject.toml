@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "entropy-pooling"
-version = "1.0.8"
+version = "1.0.9"
 description = "Entropy Pooling in Python with a BSD 3-Clause license."
 authors = ["Fortitudo Technologies <software@fortitudo.tech>"]
 license = "BSD-3-Clause"
@@ -13,6 +13,7 @@ classifiers = [
     "Intended Audience :: Education",
     "Intended Audience :: Financial and Insurance Industry",
     "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.10",
@@ -28,7 +29,7 @@ packages = [
 "Issues" = "https://github.com/fortitudo-tech/entropy-pooling/issues"
 
 [tool.poetry.dependencies]
-python = "^3.9, <3.13"
+python = "^3.9, <3.14"
 scipy = "^1.10"
 
 [tool.poetry.dev-dependencies]
