@@ -213,14 +213,14 @@ woff = ["brotli (>=1.0.1)", "brotlicffi (>=0.8.0)", "zopfli (>=0.1.4)"]
 
 [[package]]
 name = "fortitudo-tech"
-version = "1.1.13"
+version = "1.2.1"
 description = "Entropy Pooling views and stress-testing combined with Conditional Value-at-Risk (CVaR) portfolio optimization in Python."
 category = "dev"
 optional = false
 python-versions = "<3.14,>=3.9"
 files = [
-    {file = "fortitudo_tech-1.1.13-py3-none-any.whl", hash = "sha256:c0b2deb14ea628e687651312c40fbf2bdd769cd4f7ad9f0663d435f0e09f9e83"},
-    {file = "fortitudo_tech-1.1.13.tar.gz", hash = "sha256:035ceacb256c83ae0bfee0349efda8180d99ad3168ceaabaa6d334cdd787d720"},
+    {file = "fortitudo_tech-1.2.1-py3-none-any.whl", hash = "sha256:63c71945ef73aa991e18abc6b741719fc4480fbf63b66f2191a2a0d41c8a277c"},
+    {file = "fortitudo_tech-1.2.1.tar.gz", hash = "sha256:77f670e8615516bc0a98e28973453841204702f85362fa2c55cc7306f57d6461"},
 ]
 
 [package.dependencies]
@@ -737,14 +737,14 @@ xmp = ["defusedxml"]
 
 [[package]]
 name = "pyparsing"
-version = "3.2.5"
+version = "3.3.1"
 description = "pyparsing - Classes and methods to define and execute parsing grammars"
 category = "dev"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "pyparsing-3.2.5-py3-none-any.whl", hash = "sha256:e38a4f02064cf41fe6593d328d0512495ad1f3d8a91c4f73fc401b3079a59a5e"},
-    {file = "pyparsing-3.2.5.tar.gz", hash = "sha256:2df8d5b7b2802ef88e8d016a2eb9c7aeaa923529cd251ed0fe4608275d4105b6"},
+    {file = "pyparsing-3.3.1-py3-none-any.whl", hash = "sha256:023b5e7e5520ad96642e2c6db4cb683d3970bd640cdf7115049a6e9c3682df82"},
+    {file = "pyparsing-3.3.1.tar.gz", hash = "sha256:47fad0f17ac1e2cad3de3b458570fbc9b03560aa029ed5e16ee5554da9a2251c"},
 ]
 
 [package.extras]
@@ -834,14 +834,14 @@ files = [
 
 [[package]]
 name = "tzdata"
-version = "2025.2"
+version = "2025.3"
 description = "Provider of IANA time zone data"
 category = "dev"
 optional = false
 python-versions = ">=2"
 files = [
-    {file = "tzdata-2025.2-py2.py3-none-any.whl", hash = "sha256:1a403fada01ff9221ca8044d701868fa132215d84beb92242d9acd2147f667a8"},
-    {file = "tzdata-2025.2.tar.gz", hash = "sha256:b60a638fcc0daffadf82fe0f57e53d06bdec2f36c4df66280ae79bce6bd6f2b9"},
+    {file = "tzdata-2025.3-py2.py3-none-any.whl", hash = "sha256:06a47e5700f3081aab02b2e513160914ff0694bce9947d6b76ebd6bf57cfc5d1"},
+    {file = "tzdata-2025.3.tar.gz", hash = "sha256:de39c2ca5dc7b0344f2eba86f49d614019d29f060fc4ebc8a417896a620b56a7"},
 ]
 
 [[package]]
